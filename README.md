@@ -1,0 +1,6 @@
+# This is a sample projet to test my-first-gradle-plugin
+
+
+# Changes :
+
+- Commit 1
